@@ -136,7 +136,7 @@
 		AA464D2A20C00AD3008CF8B0 /* sound_pumpkin.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sound_pumpkin.mp3; path = Support/SFX/sound_pumpkin.mp3; sourceTree = "<group>"; };
 		AA464D2B20C00AD3008CF8B0 /* sound_coconut.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sound_coconut.mp3; path = Support/SFX/sound_coconut.mp3; sourceTree = "<group>"; };
 		AA464D2C20C00AD3008CF8B0 /* sound_orange.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = sound_orange.mp3; path = Support/SFX/sound_orange.mp3; sourceTree = "<group>"; };
-		BB046BB61EA157FC001035EB /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ../../RainCat/RainCat/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BB046BB61EA157FC001035EB /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = ../RainCat/RainCat/LaunchScreen.storyboard; sourceTree = SOURCE_ROOT; };
 		BB0B1C871D8C9BA900C09901 /* LogoScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LogoScene.swift; path = Scenes/LogoScene.swift; sourceTree = "<group>"; };
 		BB0C20541E9EDAE8004C8E84 /* UserDefaultsManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = UserDefaultsManager.swift; path = Utility/UserDefaultsManager.swift; sourceTree = "<group>"; };
 		BB35FD821EBBA06A00D58F68 /* CreditLabelButtonSprite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreditLabelButtonSprite.swift; sourceTree = "<group>"; };
